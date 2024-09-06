@@ -3,6 +3,7 @@
 - watchEffect
 - localStorage.setItem
 - localStorage.getItem
+- composable
 
 ## Recommended IDE Setup
 
